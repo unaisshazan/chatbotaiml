@@ -1,0 +1,25 @@
+<aiml version="1.0.1" encoding="UTF-8">
+<category>  
+<pattern>hello</pattern>
+
+<template> 
+<random> 
+<li>hi</li>
+<li>helloww</li>
+<li>hmmm</li>
+</random>
+</template>
+</category>
+
+<category>  
+<pattern>how *</pattern>
+<template> 
+<random> 
+<li>i am fine</li>
+<li>nice to meet you</li>
+<li>glad to see you</li>
+</random>
+</template>
+</category>
+
+</aiml>
